@@ -12,7 +12,7 @@
 - 'delete_todo' - удаление заметки из БД;
 
 ## Запуск
-'''
+```
 pip install sqlalchemy
 python todo.py
-'''
+```
